@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "akimotomanatsu",
+    "name": "秋元真夏",
+    "birthday": "1993/08/20",
+    "country": "埼玉縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "真夏尊敬軍團"
+    ],
+    "color": [
+      "red",
+      "pink"
+    ],
+    "colorName": [
+      "赤",
+      "桃"
+    ]
+  },
+  {
+    "id": "ikutaerika",
+    "name": "生田繪梨花",
+    "birthday": "1997/01/22",
+    "country": "東京都",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "yellow",
+      "yellow"
+    ],
+    "colorName": [
+      "黃",
+      "黃"
+    ]
+  },
+  {
+    "id": "inouesayuri",
+    "name": "井上小百合",
+    "birthday": "1994/12/14",
+    "country": "埼玉縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "犬組"
+    ],
+    "color": [
+      "white",
+      "white"
+    ],
+    "colorName": [
+      "白",
+      "白"
+    ]
+  },
+  {
+    "id": "saitouasuka",
+    "name": "齋藤飛鳥",
+    "birthday": "1998/08/10",
+    "country": "東京都",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "white"
+    ],
+    "colorName": [
+      "水色",
+      "白"
+    ]
+  },
+  {
+    "id": "saitouyuuri",
+    "name": "齊藤優里",
+    "birthday": "1993/07/20",
+    "country": "東京都",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "犬組",
+      "西瓜組"
+    ],
+    "color": [
+      "pink",
+      "white"
+    ],
+    "colorName": [
+      "桃",
+      "白"
+    ]
+  },
+  {
+    "id": "sakuraireika",
+    "name": "櫻井玲香",
+    "birthday": "1994/05/16",
+    "country": "神奈川縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "犬組"
+    ],
+    "color": [
+      "red",
+      "pink"
+    ],
+    "colorName": [
+      "赤",
+      "桃"
+    ]
+  },
+  {
+    "id": "shiraishimai",
+    "name": "白石麻衣",
+    "birthday": "1992/08/20",
+    "country": "群馬縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "aqua"
+    ],
+    "colorName": [
+      "水色",
+      "水色"
+    ]
+  },
+  {
+    "id": "takayamakazumi",
+    "name": "高山一實",
+    "birthday": "1994/02/08",
+    "country": "千葉縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "aqua",
+      "pink"
+    ],
+    "colorName": [
+      "水色",
+      "桃"
+    ]
+  },
+  {
+    "id": "nakadakana",
+    "name": "中田花奈",
+    "birthday": "1994/08/06",
+    "country": "埼玉縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "沙友蘋果軍團"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "colorName": [
+      "黑",
+      "白"
+    ]
+  },
+  {
+    "id": "higuchihina",
+    "name": "樋口日奈",
+    "birthday": "1998/01/31",
+    "country": "東京都",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "purple",
+      "orange"
+    ],
+    "colorName": [
+      "紫",
+      "橙"
+    ]
+  },
+  {
+    "id": "hoshinominami",
+    "name": "星野南",
+    "birthday": "1998/02/06",
+    "country": "千葉縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "white",
+      "white"
+    ],
+    "colorName": [
+      "白",
+      "白"
+    ]
+  },
+  {
+    "id": "matsumurasayuri",
+    "name": "松村沙友理",
+    "birthday": "1992/08/27",
+    "country": "大阪府",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "沙友蘋果軍團",
+      "犬組"
+    ],
+    "color": [
+      "red",
+      "red"
+    ],
+    "colorName": [
+      "赤",
+      "赤"
+    ]
+  },
+  {
+    "id": "wadamaaya",
+    "name": "和田真彩",
+    "birthday": "1998/04/23",
+    "country": "廣島縣",
+    "grade": 1,
+    "graduated": false,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "yellow",
+      "orange"
+    ],
+    "colorName": [
+      "黃",
+      "橙"
+    ]
+  },
+  {
+    "id": "itoujunna",
+    "name": "伊藤純奈",
+    "birthday": "1998/11/30",
+    "country": "神奈川縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "西瓜組"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "colorName": [
+      "綠",
+      "紫"
+    ]
+  },
+  {
+    "id": "kitanohinako",
+    "name": "北野日奈子",
+    "birthday": "1996/07/17",
+    "country": "千葉縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "greenyellow"
+    ],
+    "colorName": [
+      "桃",
+      "黃綠"
+    ]
+  },
+  {
+    "id": "sasakikotoko",
+    "name": "佐佐木琴子",
+    "birthday": "1998/08/28",
+    "country": "埼玉縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "沙友蘋果軍團"
+    ],
+    "color": [
+      "blue",
+      "green"
+    ],
+    "colorName": [
+      "青",
+      "綠"
+    ]
+  },
+  {
+    "id": "shinuchimai",
+    "name": "新內真衣",
+    "birthday": "1992/01/22",
+    "country": "埼玉縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "purple"
+    ],
+    "colorName": [
+      "青",
+      "紫"
+    ]
+  },
+  {
+    "id": "suzukiayane",
+    "name": "鈴木絢音",
+    "birthday": "1999/03/05",
+    "country": "秋田縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "真夏尊敬軍團"
+    ],
+    "color": [
+      "white",
+      "purple"
+    ],
+    "colorName": [
+      "白",
+      "紫"
+    ]
+  },
+  {
+    "id": "teradaranze",
+    "name": "寺田蘭世",
+    "birthday": "1998/09/23",
+    "country": "東京都",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "沙友蘋果軍團"
+    ],
+    "color": [
+      "red",
+      "white"
+    ],
+    "colorName": [
+      "赤",
+      "白"
+    ]
+  },
+  {
+    "id": "horimiona",
+    "name": "堀未央奈",
+    "birthday": "1996/10/15",
+    "country": "岐阜縣",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "white",
+      "orange"
+    ],
+    "colorName": [
+      "白",
+      "橙"
+    ]
+  },
+  {
+    "id": "yamazakirena",
+    "name": "山崎怜奈",
+    "birthday": "1997/05/21",
+    "country": "東京都",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "yellow",
+      "white"
+    ],
+    "colorName": [
+      "黃",
+      "白"
+    ]
+  },
+  {
+    "id": "watanabemiria",
+    "name": "渡邊米麗愛",
+    "birthday": "1999/11/01",
+    "country": "東京都",
+    "grade": 2,
+    "graduated": false,
+    "gundan": [
+      "真夏尊敬軍團"
+    ],
+    "color": [
+      "yellow",
+      "greenyellow"
+    ],
+    "colorName": [
+      "黃",
+      "黃綠"
+    ]
+  },
+  {
+    "id": "itouriria",
+    "name": "伊藤理理杏",
+    "birthday": "2002/10/08",
+    "country": "沖繩縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "purple",
+      "red"
+    ],
+    "colorName": [
+      "紫",
+      "赤"
+    ]
+  },
+  {
+    "id": "iwamotorenka",
+    "name": "岩本蓮加",
+    "birthday": "2004/02/02",
+    "country": "東京都",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "pink"
+    ],
+    "colorName": [
+      "赤",
+      "桃"
+    ]
+  },
+  {
+    "id": "umezawaminami",
+    "name": "梅澤美波",
+    "birthday": "1999/01/06",
+    "country": "神奈川縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "若樣軍團"
+    ],
+    "color": [
+      "blue",
+      "aqua"
+    ],
+    "colorName": [
+      "青",
+      "水色"
+    ]
+  },
+  {
+    "id": "oozonomomoko",
+    "name": "大園桃子",
+    "birthday": "1999/09/13",
+    "country": "鹿兒島縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "green"
+    ],
+    "colorName": [
+      "桃",
+      "綠"
+    ]
+  },
+  {
+    "id": "kuboshiori",
+    "name": "久保史緒里",
+    "birthday": "2001/07/14",
+    "country": "宮城縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "yellow"
+    ],
+    "colorName": [
+      "水色",
+      "黃"
+    ]
+  },
+  {
+    "id": "sakaguchitamami",
+    "name": "阪口珠美",
+    "birthday": "2001/11/10",
+    "country": "東京都",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "若樣軍團"
+    ],
+    "color": [
+      "purple",
+      "yellow"
+    ],
+    "colorName": [
+      "紫",
+      "黃"
+    ]
+  },
+  {
+    "id": "satoukaede",
+    "name": "佐藤楓",
+    "birthday": "1998/03/23",
+    "country": "愛知縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "red"
+    ],
+    "colorName": [
+      "赤",
+      "赤"
+    ]
+  },
+  {
+    "id": "nakamurareno",
+    "name": "中村麗乃",
+    "birthday": "2001/09/27",
+    "country": "東京都",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "white"
+    ],
+    "colorName": [
+      "青",
+      "白"
+    ]
+  },
+  {
+    "id": "mukaihazuki",
+    "name": "向井葉月",
+    "birthday": "1999/08/23",
+    "country": "東京都",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "yellow",
+      "yellow"
+    ],
+    "colorName": [
+      "黃",
+      "黃"
+    ]
+  },
+  {
+    "id": "yamashitamizuki",
+    "name": "山下美月",
+    "birthday": "1999/07/26",
+    "country": "東京都",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "若樣軍團"
+    ],
+    "color": [
+      "blue",
+      "yellow"
+    ],
+    "colorName": [
+      "青",
+      "黃"
+    ]
+  },
+  {
+    "id": "yoshidaayanochristie",
+    "name": "吉田綾乃克莉絲蒂",
+    "birthday": "1995/09/06",
+    "country": "大分縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "purple"
+    ],
+    "colorName": [
+      "桃",
+      "紫"
+    ]
+  },
+  {
+    "id": "yodayuuki",
+    "name": "與田祐希",
+    "birthday": "2000/05/05",
+    "country": "福岡縣",
+    "grade": 3,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "green"
+    ],
+    "colorName": [
+      "赤",
+      "綠"
+    ]
+  },
+  {
+    "id": "ikomarina",
+    "name": "生駒里奈",
+    "birthday": "1995/12/29",
+    "country": "秋田縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "犬組"
+    ],
+    "color": [
+      "blue",
+      "purple"
+    ],
+    "colorName": [
+      "青",
+      "紫"
+    ]
+  },
+  {
+    "id": "itoumarika",
+    "name": "伊藤萬理華",
+    "birthday": "1996/02/20",
+    "country": "神奈川縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "犬組"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "colorName": [
+      "綠",
+      "紫"
+    ]
+  },
+  {
+    "id": "etoumisa",
+    "name": "衛藤美彩",
+    "birthday": "1993/01/04",
+    "country": "大分縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "red"
+    ],
+    "colorName": [
+      "赤",
+      "赤"
+    ]
+  },
+  {
+    "id": "kawagohina",
+    "name": "川後陽菜",
+    "birthday": "1998/03/22",
+    "country": "長崎縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "西瓜組",
+      "鬱金香"
+    ],
+    "color": [
+      "red",
+      "red"
+    ],
+    "colorName": [
+      "赤",
+      "赤"
+    ]
+  },
+  {
+    "id": "kawamuramahiro",
+    "name": "川村真洋",
+    "birthday": "1995/07/23",
+    "country": "大阪府",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "red",
+      "white"
+    ],
+    "colorName": [
+      "赤",
+      "白"
+    ]
+  },
+  {
+    "id": "saitouchiharu",
+    "name": "齋藤千春",
+    "birthday": "1997/02/17",
+    "country": "埼玉縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "blue",
+      "red"
+    ],
+    "colorName": [
+      "青",
+      "赤"
+    ]
+  },
+  {
+    "id": "nakamotohimeka",
+    "name": "中元日芽香",
+    "birthday": "1996/04/13",
+    "country": "廣島縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "pink"
+    ],
+    "colorName": [
+      "桃",
+      "桃"
+    ]
+  },
+  {
+    "id": "nishinonanase",
+    "name": "西野七瀨",
+    "birthday": "1994/05/25",
+    "country": "大阪府",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "西瓜組"
+    ],
+    "color": [
+      "green",
+      "white"
+    ],
+    "colorName": [
+      "綠",
+      "白"
+    ]
+  },
+  {
+    "id": "noujouami",
+    "name": "能條愛未",
+    "birthday": "1994/10/18",
+    "country": "神奈川縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "鬱金香"
+    ],
+    "color": [
+      "orange",
+      "orange"
+    ],
+    "colorName": [
+      "橙",
+      "橙"
+    ]
+  },
+  {
+    "id": "wakatsukiyumi",
+    "name": "若月佑美",
+    "birthday": "1994/06/27",
+    "country": "靜岡縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "犬組",
+      "若樣軍團"
+    ],
+    "color": [
+      "blue",
+      "blue"
+    ],
+    "colorName": [
+      "青",
+      "青"
+    ]
+  },
+  {
+    "id": "itoukarin",
+    "name": "伊藤卡琳",
+    "birthday": "1993/05/26",
+    "country": "神奈川縣",
+    "grade": 2,
+    "graduated": true,
+    "gundan": [
+      "西瓜組",
+      "沙友蘋果軍團"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "colorName": [
+      "綠",
+      "紫"
+    ]
+  },
+  {
+    "id": "sagaraiori",
+    "name": "相樂伊織",
+    "birthday": "1997/11/26",
+    "country": "埼玉縣",
+    "grade": 2,
+    "graduated": true,
+    "gundan": [
+      "真夏尊敬軍團"
+    ],
+    "color": [
+      "green",
+      "orange"
+    ],
+    "colorName": [
+      "綠",
+      "橙"
+    ]
+  },
+  {
+    "id": "hashimotonanami",
+    "name": "橋本奈奈未",
+    "birthday": "1993/02/20",
+    "country": "北海道",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "green",
+      "green"
+    ],
+    "colorName": [
+      "綠",
+      "綠"
+    ]
+  },
+  {
+    "id": "fukagawamai",
+    "name": "深川麻衣",
+    "birthday": "1991/03/29",
+    "country": "靜岡縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "colorName": [
+      "綠",
+      "紫"
+    ]
+  },
+  {
+    "id": "nagashimaseira",
+    "name": "永島聖羅",
+    "birthday": "1994/05/19",
+    "country": "愛知縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "yellow",
+      "yellow"
+    ],
+    "colorName": [
+      "黃",
+      "黃"
+    ]
+  },
+  {
+    "id": "iwaseyumiko",
+    "name": "岩瀨佑美子",
+    "birthday": "1990/06/12",
+    "country": "琦玉縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "andoumikumo",
+    "name": "安藤美雲",
+    "birthday": "1993/05/21",
+    "country": "神奈川縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "kashiwayukina",
+    "name": "柏幸奈",
+    "birthday": "1994/08/12",
+    "country": "神奈川縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "miyazawaseira",
+    "name": "宮澤成良",
+    "birthday": "1993/10/29",
+    "country": "千葉縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "ichikirena",
+    "name": "市來玲奈",
+    "birthday": "1996/01/23",
+    "country": "千葉縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "itounene",
+    "name": "伊藤寧寧",
+    "birthday": "1995/12/12",
+    "country": "岐阜縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "yamatorina",
+    "name": "大和里菜",
+    "birthday": "1994/12/14",
+    "country": "宮城縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "hatanakaseira",
+    "name": "畠中清羅",
+    "birthday": "1995/12/05",
+    "country": "大分縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "matsuirena",
+    "name": "松井玲奈",
+    "birthday": "1991/07/27",
+    "country": "愛知縣",
+    "grade": 1,
+    "graduated": true,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "black",
+      "black"
+    ],
+    "colorName": [
+      "黑",
+      "黑"
+    ]
+  },
+  {
+    "id": "endousakura",
+    "name": "遠藤櫻",
+    "birthday": "2001/10/03",
+    "country": "愛知縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "white"
+    ],
+    "colorName": [
+      "桃",
+      "白"
+    ]
+  },
+  {
+    "id": "kakiharuka",
+    "name": "賀喜遙香",
+    "birthday": "2001/08/08",
+    "country": "栃木縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "orange",
+      "green"
+    ],
+    "colorName": [
+      "橙",
+      "綠"
+    ]
+  },
+  {
+    "id": "kakehashisayaka",
+    "name": "掛橋沙耶香",
+    "birthday": "2002/11/20",
+    "country": "岡山縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "orange"
+    ],
+    "colorName": [
+      "桃",
+      "橙"
+    ]
+  },
+  {
+    "id": "kanagawasaya",
+    "name": "金川沙耶",
+    "birthday": "2001/10/31",
+    "country": "北海道",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "red"
+    ],
+    "colorName": [
+      "水色",
+      "赤"
+    ]
+  },
+  {
+    "id": "kitagawayuri",
+    "name": "北川悠理",
+    "birthday": "2001/08/08",
+    "country": "美國加利福尼亞州",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "orange"
+    ],
+    "colorName": [
+      "水色",
+      "橙"
+    ]
+  },
+  {
+    "id": "shibatayuna",
+    "name": "柴田柚菜",
+    "birthday": "2003/03/03",
+    "country": "千葉縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "greenyellow"
+    ],
+    "colorName": [
+      "青",
+      "黃綠"
+    ]
+  },
+  {
+    "id": "seimiyarei",
+    "name": "清宮玲",
+    "birthday": "2003/08/01",
+    "country": "琦玉縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "orange",
+      "orange"
+    ],
+    "colorName": [
+      "橙",
+      "橙"
+    ]
+  },
+  {
+    "id": "tamuramayu",
+    "name": "田村真佑",
+    "birthday": "1999/01/12",
+    "country": "琦玉縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "purple",
+      "aqua"
+    ],
+    "colorName": [
+      "紫",
+      "水色"
+    ]
+  },
+  {
+    "id": "tsutsuiayame",
+    "name": "筒井彩萌",
+    "birthday": "2004/06/08",
+    "country": "愛知縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "purple",
+      "purple"
+    ],
+    "colorName": [
+      "紫",
+      "紫"
+    ]
+  },
+  {
+    "id": "hayakawaseira",
+    "name": "早川聖來",
+    "birthday": "2000/08/24",
+    "country": "大阪府",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "blue"
+    ],
+    "colorName": [
+      "青",
+      "青"
+    ]
+  },
+  {
+    "id": "yakubomio",
+    "name": "矢久保美緒",
+    "birthday": "2002/08/14",
+    "country": "東京都",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "yellow"
+    ],
+    "colorName": [
+      "桃",
+      "黃"
+    ]
+  }
+]
