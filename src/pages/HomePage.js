@@ -9,28 +9,15 @@ const HomePage = () => {
       <Suspense fallback={<p className='text-center'>Loading...</p>}>
         <Await resolve={members}>
           {(loadedMembers) => (
-            <>
-              <h1>1 期</h1>
-              <MemberList
-                members={loadedMembers.filter((member) => member.grade === 1)}
-              />
-              <h1>2 期</h1>
-              <MemberList
-                members={loadedMembers.filter((member) => member.grade === 2)}
-              />
-              <h1>3 期</h1>
-              <MemberList
-                members={loadedMembers.filter((member) => member.grade === 3)}
-              />
-              <h1>4 期</h1>
-              <MemberList
-                members={loadedMembers.filter((member) => member.grade === 4)}
-              />
-              <h1>5 期</h1>
-              <MemberList
-                members={loadedMembers.filter((member) => member.grade === 5)}
-              />
-            </>
+            <div className="grid grid-cols-5 gap-8 ml-20 mr-20">
+              {[1, 2, 3, 4, 5].map((grade) => (
+                <MemberList
+                  key={grade}
+                  title={`${grade} 期`}
+                  members={loadedMembers.filter((member) => member.grade === grade)}
+                />
+              ))}
+            </div>
           )}
         </Await>
       </Suspense>

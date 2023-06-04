@@ -1,6 +1,6 @@
 const PageContent = ({ title, children }) => {
   return (
-    <div className="text-center pt-12">
+    <div className="text-center pt-14">
       <h1>{title}</h1>
       {children}
     </div>

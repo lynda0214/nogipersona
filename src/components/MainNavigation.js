@@ -3,8 +3,8 @@ import { NavLink } from "react-router-dom";
 const MainNavigation = () => {
   return (
     <header>
-      <nav className="fixed w-full h-12 text-white bg-purple-500 flex items-center justify-center">
-        <NavLink to="/" >nogiFiles</NavLink>
+      <nav className="fixed w-full h-14 z-10 bg-white text-purple-700 flex items-center justify-center font-noto font-semibold text-2xl shadow-md">
+        <NavLink to="/" >◢ ⁴⁶ NogiFiles</NavLink>
       </nav>
     </header>
   );
