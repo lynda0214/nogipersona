@@ -1314,5 +1314,309 @@
       "桃",
       "黃"
     ]
+  },
+  {
+    "id": "kuromiharuka",
+    "name": "黑見明香",
+    "birthday": "2014/01/19",
+    "country": "香港",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "purple",
+      "green"
+    ],
+    "colorName": [
+      "紫",
+      "綠"
+    ]
+  },
+  {
+    "id": "satorika",
+    "name": "佐藤璃果",
+    "birthday": "2001/08/09",
+    "country": "岩手縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "turquoise"
+    ],
+    "colorName": [
+      "桃",
+      "青綠"
+    ]
+  },
+  {
+    "id": "hayashiruna",
+    "name": "林瑠奈",
+    "birthday": "2003/10/02",
+    "country": "兵庫縣",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "pink",
+      "pink"
+    ],
+    "colorName": [
+      "桃",
+      "桃"
+    ]
+  },
+  {
+    "id": "matsuomiyu",
+    "name": "松尾美佑",
+    "birthday": "2004/01/03",
+    "country": "千葉市",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "turquoise",
+      "white"
+    ],
+    "colorName": [
+      "青綠",
+      "白"
+    ]
+  },
+  {
+    "id": "yumikinao",
+    "name": "弓木奈於",
+    "birthday": "1999/02/03",
+    "country": "京都市",
+    "grade": 4,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "greenyellow"
+    ],
+    "colorName": [
+      "赤",
+      "黃綠"
+    ]
+  },
+  {
+    "id": "iokimao",
+    "name": "五百城茉央",
+    "birthday": "2005/07/29",
+    "country": "兵庫縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "turquoise"
+    ],
+    "colorName": [
+      "青",
+      "青綠"
+    ]
+  },
+  {
+    "id": "ikedateresa",
+    "name": "池田瑛紗",
+    "birthday": "2002/05/12",
+    "country": "東京都",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "white",
+      "green"
+    ],
+    "colorName": [
+      "白",
+      "綠"
+    ]
+  },
+  {
+    "id": "ichinosemiku",
+    "name": "一之瀨美空",
+    "birthday": "2003/05/24",
+    "country": "福岡縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "aqua"
+    ],
+    "colorName": [
+      "水色",
+      "水色"
+    ]
+  },
+  {
+    "id": "inouenagi",
+    "name": "井上和",
+    "birthday": "2005/02/17",
+    "country": "神奈川縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "red",
+      "white"
+    ],
+    "colorName": [
+      "赤",
+      "白"
+    ]
+  },
+  {
+    "id": "okamotohina",
+    "name": "岡本姬奈",
+    "birthday": "2003/12/17",
+    "country": "愛知縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "blue",
+      "purple"
+    ],
+    "colorName": [
+      "青",
+      "紫"
+    ]
+  },
+  {
+    "id": "ogawaaya",
+    "name": "小川彩",
+    "birthday": "2007/06/27",
+    "country": "千葉縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "white",
+      "white"
+    ],
+    "colorName": [
+      "白",
+      "白"
+    ]
+  },
+  {
+    "id": "okudairoha",
+    "name": "奧田伊呂波",
+    "birthday": "2005/08/20",
+    "country": "神奈川縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "greenyellow",
+      "pink"
+    ],
+    "colorName": [
+      "黃綠",
+      "桃"
+    ]
+  },
+  {
+    "id": "kawasakisakura",
+    "name": "川崎櫻",
+    "birthday": "2003/04/17",
+    "country": "神奈川縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "green",
+      "pink"
+    ],
+    "colorName": [
+      "綠",
+      "桃"
+    ]
+  },
+  {
+    "id": "sagawarasatsuki",
+    "name": "菅原咲月",
+    "birthday": "2005/10/31",
+    "country": "千葉縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "pink"
+    ],
+    "colorName": [
+      "水色",
+      "桃"
+    ]
+  },
+  {
+    "id": "tomisatonao",
+    "name": "富里奈央",
+    "birthday": "2006/09/18",
+    "country": "千葉縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "turquoise",
+      "turquoise"
+    ],
+    "colorName": [
+      "青綠",
+      "青綠"
+    ]
+  },
+  {
+    "id": "nakanishiaruno",
+    "name": "中西阿爾諾",
+    "birthday": "2003/03/17",
+    "country": "千葉縣",
+    "grade": 5,
+    "graduated": false,
+    "gundan": [
+      "無所屬"
+    ],
+    "color": [
+      "aqua",
+      "turquoise"
+    ],
+    "colorName": [
+      "水色",
+      "青綠"
+    ]
   }
 ]

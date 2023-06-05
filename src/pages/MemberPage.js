@@ -7,11 +7,7 @@ const MemberPage = () => {
   return (
     <Suspense fallback={<p className='text-center'>Loading...</p>}>
       <Await resolve={member}>
-        {(loadedMember) => (
-          <div className='h-screen bg-purple-50'>
-            <MemberProfile member={loadedMember} />
-          </div>
-        )}
+        {(loadedMember) => <MemberProfile member={loadedMember} />}
       </Await>
     </Suspense>
   );
