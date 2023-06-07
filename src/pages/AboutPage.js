@@ -1,6 +1,6 @@
 const AboutPage = () => {
   return (
-    <div className='pt-20 pl-40 pr-40'>
+    <div className='pt-20 pl-1/5 pr-1/5'>
       <p>
         非官方非營利乃木坂46熱血粉絲的小小製作，方便檢索成員的基本資料以及應援顏色。此網站所用的公式照皆來自
         <a
