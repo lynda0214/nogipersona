@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        noto: ['"Noto Serif JP"', ...defaultTheme.fontFamily.sans]
+        noto: ['"Noto Sans JP"', ...defaultTheme.fontFamily.sans]
       }
     },
   },
