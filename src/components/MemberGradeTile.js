@@ -9,7 +9,7 @@ const MemberGradeTile = ({ grade }) => {
 
   return (
     <div
-      className="cursor-pointer bg-purple-600 hover:bg-purple-800 mb-8 rounded overflow-hidden"
+      className="cursor-pointer bg-purple-600 hover:bg-purple-800 rounded overflow-hidden"
       onClick={() => clickHandler(grade)}
     >
       <img className="mix-blend-screen grayscale" src={`/nogipersona/images/${grade}.jpg`} alt="" />
