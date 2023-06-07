@@ -21,12 +21,9 @@ const ErrorPage = () => {
   }
 
   return (
-    <>
-      <MainNavigation />
-      <PageContent title={title}>
-        <p>{message}</p>
-      </PageContent>
-    </>
+    <PageContent title={title}>
+      <p>{message}</p>
+    </PageContent>
   );
 }
 
