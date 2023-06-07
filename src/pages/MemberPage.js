@@ -16,7 +16,7 @@ const MemberPage = () => {
 export default MemberPage;
 
 async function loadMember(memberId) {
-  const response = await fetch('/data.json');
+  const response = await fetch('/nogipersona/data.json');
 
   if (!response.ok) {
     throw json({ message: 'Could not fetch members.' }, { status: 500 });

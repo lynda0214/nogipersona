@@ -1,10 +1,4 @@
 const OoenColor = ({ color, colorName }) => {
-  const getBackgroundColor = (color) => {
-    if (color === 'pink') {
-      return '#'
-    }
-  };
-
   const getTextColor = (color) => {
     if (color === 'white' || color === 'yellow' || color === 'greenyellow') {
       return 'black';

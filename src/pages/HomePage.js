@@ -9,12 +9,14 @@ const HomePage = () => {
       <Suspense fallback={<p className='text-center'>Loading...</p>}>
         <Await resolve={members}>
           {(loadedMembers) => (
-            <div className="grid xl:grid-cols-5 md:grid-cols-3 sm:grid-cols-1 gap-8 ml-20 mr-20">
+            <div className='grid xl:grid-cols-5 md:grid-cols-3 sm:grid-cols-1 gap-8 ml-20 mr-20'>
               {[1, 2, 3, 4, 5].map((grade) => (
                 <MemberList
                   key={grade}
                   title={`${grade} 期`}
-                  members={loadedMembers.filter((member) => member.grade === grade)}
+                  members={loadedMembers.filter(
+                    (member) => member.grade === grade
+                  )}
                 />
               ))}
             </div>
@@ -28,7 +30,7 @@ const HomePage = () => {
 export default HomePage;
 
 async function loadMembers() {
-  const response = await fetch('/data.json');
+  const response = await fetch('/nogipersona/data.json');
 
   if (!response.ok) {
     throw json({ message: 'Could not fetch members.' }, { status: 500 });

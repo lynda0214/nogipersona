@@ -7,13 +7,13 @@ import MemberPage, { loader as memberLoader } from './pages/MemberPage';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/nogipersona/',
     element: <RootLayout />,
     errorElement: <ErrorPage />,
     children: [
       { index: true, element: <HomePage />, loader: membersLoader },
-      { path: '/about', element: <AboutPage />},
-      { path: '/member/:memberId', element: <MemberPage />, loader: memberLoader }
+      { path: '/nogipersona/about/', element: <AboutPage />},
+      { path: '/nogipersona/member/:memberId/', element: <MemberPage />, loader: memberLoader }
     ]
   }
 ]);
