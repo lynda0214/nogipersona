@@ -26,7 +26,7 @@ const MemberProfile = ({ member = DEFAULT_MEMBER }) => {
         <li>応援色：<OoenColor color={color[0]} colorName={colorName[0]} /><OoenColor color={color[1]} colorName={colorName[1]} /></li>
       </ul>
       <div className="mt-10 text-purple-500 hover:text-purple-800">
-        <Link to='/'>[返回]</Link>
+        <Link to='/nogipersona/'>[返回]</Link>
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ const MemberListItem = ({ id, name, isGraduated }) => {
   const borderColor = isGraduated ? 'border-slate-300' : 'border-purple-400';
 
   const clickHandler = () => {
-    navigate(`/member/${id}`);
+    navigate(`/nogipersona/member/${id}`);
   };
 
   return (
