@@ -1,6 +1,6 @@
 import { Suspense } from 'react';
 import { Await, useLoaderData, useParams, json, defer } from 'react-router-dom';
-import MemberList from '../components/MemberList';
+import MembersGallery from '../components/MembersGallery';
 
 const MembersPage = () => {
   const { members } = useLoaderData();
@@ -9,7 +9,7 @@ const MembersPage = () => {
     <Suspense fallback={<p className='text-center'>Loading...</p>}>
       <Await resolve={members}>
         {(loadedMembers) => (
-          <MemberList title={`${memberGrade} 期`} grade={memberGrade} members={loadedMembers} />
+          <MembersGallery title={`${memberGrade} 期`} members={loadedMembers} />
         )}
       </Await>
     </Suspense>
