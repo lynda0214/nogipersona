@@ -8,19 +8,19 @@ import MembersPage, { loader as membersLoader } from './pages/MembersPage';
 
 const router = createBrowserRouter([
   {
-    path: '/nogipersona/',
+    path: '/',
     element: <RootLayout />,
     errorElement: <ErrorPage />,
     children: [
       { index: true, element: <HomePage /> },
-      { path: '/nogipersona/about/', element: <AboutPage /> },
+      { path: '/about/', element: <AboutPage /> },
       {
-        path: '/nogipersona/members/:memberGrade/',
+        path: '/members/:memberGrade/',
         element: <MembersPage />,
         loader: membersLoader,
       },
       {
-        path: '/nogipersona/member/:memberId/',
+        path: '/member/:memberId/',
         element: <MemberPage />,
         loader: memberLoader,
       },
