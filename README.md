@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# NogiPersona
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TL;DR
+It's an upgraded version of the old project [NogiFiles](https://github.com/lynda0214/nogifiles/tree/master), which is a website for quickly looking up the profiles of the Nogizaka 46 members.
 
-## Available Scripts
+# What's New
+In this new version, I not only updated the old information, but also practice some new trending stuffs:
 
-In the project directory, you can run:
+- react-hooks
 
-### `npm start`
+  Back to the times of making 'NogiFiles', react hook was not yet a dominant trend in React developing.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [TailwindCSS](https://tailwindcss.com/docs/responsive-design)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [react-router-v6](https://reactrouter.com/en/main)
 
-### `npm test`
+  The old project uses HashRouter, in this project, I'd like to embrace the new technology of the react-router-v6.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ⚠️ github-page doesn't support client-routing ([reference](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing))
 
-### `npm run build`
+- Netlify Deployment
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Loading images without **Cumulative Layout Shift** ([CLS](https://web.dev/cls/))
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  I tried to convert all the image resources to [Progressive JPEG](https://www.thewebmaster.com/progressive-jpegs/) but it didn't work out as expected. It seems to be helpful for **Largest Contentful Paint** ([LCP](https://web.dev/lcp/)) not for CLS.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  the shell script for converting all images to progressive images was like this:
+  ```bash
+  #!/bin/bash
+  # Loop through all the .jpg files in the directory
+  for file in *.jpg; do
+      # Check if the file is a regular file
+      if [[ -f "$file" ]]; then
+          # Create a temporary file name
+          temp_file="${file%.jpg}_temp.jpg"
+          
+          # Transform the image to progressive JPEG using jpegtran
+          jpegtran -progressive -copy none -outfile "$temp_file" "$file"
+          
+          # Replace the original file with the progressive JPEG
+          mv "$temp_file" "$file"
+          
+          echo "Converted $file to progressive JPEG."
+      fi
+  done
 
-### `npm run eject`
+  echo "All .jpg files converted to progressive JPEG."
+  ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+  Hence, I then use the `div` to paint the placeholder before the image was loaded to address the CLS issues.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Demo
+https://nogipersona.netlify.app/
