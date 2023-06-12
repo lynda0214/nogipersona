@@ -13,7 +13,9 @@ const MemberProfile = ({ member = DEFAULT_MEMBER }) => {
   const { id, grade, name, birthday, country, gundan, color, colorName } = member;
   return (
     <div className='flex items-center flex-col'>
-      <img className='w-80 mb-10' src={`/images/${id}_prof.jpg`} alt='' />
+      <div className='relative bg-slate-300 mb-10 overflow-hidden rounded' style={{ width: '320px', paddingBottom: '384px' }}>
+      <img className='absolute left-0 top-0 w-80' src={`/images/${id}_prof.jpg`} alt='' />
+      </div>
       <div className='w-80 text-center'>
         <h5 className='text-sm'>{`${grade} 期生`}</h5>
         <h1 className='text-2xl font-semibold mb-5'>{name}</h1>
